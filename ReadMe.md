@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudando programação<br>Futuro desenvolvedor FullStack<br>Fã de animes e mangás
+Estudando programação<br>Futuro desenvolvedor FullStack
 
 
 ## 🌐 Socials:
